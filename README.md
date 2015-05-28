@@ -9,15 +9,19 @@
 - [EMOJI CHEAT SHEET](http://www.emoji-cheat-sheet.com/)
 - [Git Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Keycodes](http://keycodes.atjayjo.com/)
 
 ## Chrome DevTools
 
 - [Tips And Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
 
+## Docs
+
+- [markdown-guide](http://markdown-guide.readthedocs.org/en/latest/index.html)
+- [sublime-text-unofficial-documentation](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/index.html)
+
 ## Fun
 
-- [clone zone](http://clonezone.link/)
-- [Email Hunter](https://emailhunter.co/)
 - [Pointerpointer](http://www.pointerpointer.com/)
 
 ## GitHub
@@ -33,6 +37,12 @@
 - [Codecademy](http://www.codecademy.com/)
 - [SitePoint](http://www.sitepoint.com/)
 - [Tuts+](http://tutsplus.com/)
+
+## Lifehack
+
+- [7 Key Differences Between Successful People And Unsuccessful People](http://www.lifehack.org/articles/productivity/7-key-differences-between-successful-people-and-unsuccessful-people.html?ref=tp&n=2)
+- [30 lessons I’ve learned on reaching 30](http://www.lifehack.org/articles/communication/30-lessons-ive-learned-reaching-30.html?ref=tp&n=2)
+- [People with clear, written goals, accomplish far more in a…](http://www.lifehack.org/articles/communication/people-with-clear-written-goals-accomplish-far-more.html?ref=tp&n=1)
 
 ## Sass
 
@@ -53,6 +63,12 @@
 - [Coggle](https://coggle.it/)
 - [Trello](https://trello.com/)
 
+  ## Hack
+
+  - [clone zone](http://clonezone.link/)
+  - [Email Hunter](https://emailhunter.co/)
+  - [Colores](http://colores.manugarri.com/)
+
 ## Tutorials
 
 - [HTML(5) Tutorial](http://www.w3schools.com/html/)
@@ -63,3 +79,4 @@
 - [Bootstrap 3 Tutorial](http://www.w3schools.com/bootstrap/default.asp)
 - [AngularJS Tutorial](http://www.w3schools.com/angular/default.asp)
 - [Markdown Tutorial](http://markdowntutorial.com/)
+- [The-Command-Line-For-Web-Design](http://webdesign.tutsplus.com/series/the-command-line-for-web-design--cms-777)
