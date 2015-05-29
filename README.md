@@ -31,6 +31,7 @@
 ## Gulp
 
 - [Building With Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
+- [Advanced Gulp File](http://www.mikestreety.co.uk/blog/an-advanced-gulpjs-file)
 
 ## Learn
 
