@@ -43,6 +43,7 @@
 - [7 Key Differences Between Successful People And Unsuccessful People](http://www.lifehack.org/articles/productivity/7-key-differences-between-successful-people-and-unsuccessful-people.html?ref=tp&n=2)
 - [30 lessons I’ve learned on reaching 30](http://www.lifehack.org/articles/communication/30-lessons-ive-learned-reaching-30.html?ref=tp&n=2)
 - [People with clear, written goals, accomplish far more in a…](http://www.lifehack.org/articles/communication/people-with-clear-written-goals-accomplish-far-more.html?ref=tp&n=1)
+- [10 Things Successful People Do Every Day To Improve Themselves](http://www.lifehack.org/articles/communication/10-things-successful-people-every-day-improve-themselves.html)
 
 ## Sass
 
