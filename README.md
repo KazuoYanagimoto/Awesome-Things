@@ -27,6 +27,7 @@
 ## GitHub
 
 - [GitHubGuides](https://guides.github.com/)
+- [GitHub Octodex](https://octodex.github.com/)
 
 ## Gulp
 
@@ -64,6 +65,7 @@
 
 - [Coggle](https://coggle.it/)
 - [Trello](https://trello.com/)
+- [Trello Guide](https://trello.com/guide/board_basics.html)
 
   ## Hack
 
