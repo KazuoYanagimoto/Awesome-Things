@@ -1,6 +1,11 @@
 # Awesome-Things
 > A collection of awesome things.
 
+## Atom
+
+- [Atom Editor Tips and Tricks](http://www.atomtips.com/)
+- [Splitting Atoms](http://jbranchaud.github.io/splitting-atoms/)
+
 ## CheatSheet
 
 - [CheatSheet](http://www.mediaatelier.com/CheatSheet/)
@@ -65,13 +70,17 @@
 
 - [Coggle](https://coggle.it/)
 - [Trello](https://trello.com/)
-- [Trello Guide](https://trello.com/guide/board_basics.html)
 
-  ## Hack
+## Online-Editor
 
-  - [clone zone](http://clonezone.link/)
-  - [Email Hunter](https://emailhunter.co/)
-  - [Colores](http://colores.manugarri.com/)
+- [Plnkr](http://plnkr.co/)
+- [Editey](http://www.editey.com/)
+
+## Hack
+
+- [clone zone](http://clonezone.link/)
+- [Email Hunter](https://emailhunter.co/)
+- [Colores](http://colores.manugarri.com/)
 
 ## Tutorials
 
