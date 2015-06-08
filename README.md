@@ -20,6 +20,12 @@
 
 - [Tips And Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
 
+##CoffeeScript
+
+- [Programming-In-CoffeeScript](https://github.com/markbates/Programming-In-CoffeeScript)
+- [The Little Book on CoffeeScript](https://arcturo.github.io/library/coffeescript/index.html)
+- [Rocking Out With CoffeeScript](https://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027)
+
 ## Docs
 
 - [markdown-guide](http://markdown-guide.readthedocs.org/en/latest/index.html)
@@ -65,6 +71,7 @@
 ## Tips
 
 - [Google Tips](https://get.google.com/tips/)
+- [Quick Tip: Calling JavaScript Methods on Other Objects](https://code.tutsplus.com/tutorials/quick-tip-calling-javascript-methods-on-other-objects--net-15956)
 
 ## Tools
 
