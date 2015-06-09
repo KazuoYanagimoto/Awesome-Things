@@ -5,6 +5,7 @@
 
 - [Atom Editor Tips and Tricks](http://www.atomtips.com/)
 - [Splitting Atoms](http://jbranchaud.github.io/splitting-atoms/)
+- [Electron](http://electron.atom.io/)
 
 ## CheatSheet
 
@@ -19,12 +20,14 @@
 ## Chrome DevTools
 
 - [Tips And Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
+- [DevTools Snippets](https://bgrins.github.io/devtools-snippets/)
 
 ##CoffeeScript
 
 - [Programming-In-CoffeeScript](https://github.com/markbates/Programming-In-CoffeeScript)
 - [The Little Book on CoffeeScript](https://arcturo.github.io/library/coffeescript/index.html)
 - [Rocking Out With CoffeeScript](https://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027)
+- [node-inspector](https://github.com/node-inspector/node-inspector)
 
 ## Docs
 
@@ -68,10 +71,15 @@
 - [Styleguide](https://github.com/styleguide)
 - [Styleguides](http://styleguides.io/)
 
+## Sublime Text
+
+- [Colorsublime](http://colorsublime.com/)
+
 ## Tips
 
 - [Google Tips](https://get.google.com/tips/)
 - [Quick Tip: Calling JavaScript Methods on Other Objects](https://code.tutsplus.com/tutorials/quick-tip-calling-javascript-methods-on-other-objects--net-15956)
+- [Higher-Order Functions in JavaScript](http://www.sitepoint.com/higher-order-functions-javascript/)
 
 ## Tools
 
